@@ -1,5 +1,4 @@
-# Técnicas de escaneo
-Técnicas de escaneo descripción
+# Técnicas de escaneo de puertos
 
 
 ## Escaneo Syn Stealth (Furtivo)
