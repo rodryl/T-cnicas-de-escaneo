@@ -22,8 +22,10 @@ Victima: 192.168.55.152 | Puerto: 23
 
 ## Escaneo XMAS (Arbolito de navidad) 
 
-Nota 1: Solo funciona si la implementación de de la pila de protocolos TCP/IP se ha desarrollado de acuerdo al RFC 793. 
+Nota 1: Solo funciona si la implementación de de la pila de protocolos TCP/IP se ha desarrollado de acuerdo al RFC 793 
+
 Nota 2: El escaneo XMAS NO funciona en los SO nuevos de Microsoft 
+
 Nota 3: Un escaneo XMAS dirigido a sistemas Microsoft mostratá que todos los puertos están cerrados(aún si están abierto) 
  
 #### Comunicación: 
