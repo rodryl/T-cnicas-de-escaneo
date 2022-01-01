@@ -1,9 +1,9 @@
 # T-cnicas-de-escaneo
 Técnicas de escaneo descripción
 <br /> 
-1
+##1
 <br /> 
-2
+##2
 <br /> 
 3
 <br /> 
